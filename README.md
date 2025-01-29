@@ -2,11 +2,7 @@
   <img height="200" src="https://miro.medium.com/v2/resize:fit:768/1*lGR0gfZzZMNk7DoRx-vmQA.png"  />
 </div>
 
-###
-###
-
 <br clear="both">
-
 
 <h1 align="center">Seja bem-vindo ao meu github, meu cantinho de estudos e lazer, feito com o mais puro prazer!</h1>
 
