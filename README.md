@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Olá, me chamo George, tenho 38 anos e atualmente estou no terceiro período de Analise e Desenvolvimento de Sistemas na Newton Paiva, Belo Horizonte - MG.<br>Tenho muito interesse em tecnologias e simplesmente adoro passar horas estudando sobre o assunto, gosto de desafios e sou uma pessoa organizada .</p>
+<p align="left">Olá, me chamo George, tenho 39 anos e atualmente estou no terceiro período de Analise e Desenvolvimento de Sistemas na Newton Paiva, Belo Horizonte - MG.<br>Tenho muito interesse em tecnologias e simplesmente adoro passar horas estudando sobre o assunto, gosto de desafios e sou uma pessoa organizada .</p>
 
 ###
 
@@ -50,6 +50,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
