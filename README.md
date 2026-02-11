@@ -6,37 +6,29 @@
 
 <h1 align="center">Seja bem-vindo ao meu github, meu cantinho de estudos e lazer, feito com o mais puro prazer!</h1>
 
-###
-
 <h2 align="center">Sobre mim.</h2>
-
-###
 
 <br clear="both">
 
 <img align="right" height="150" src="https://png.pngtree.com/png-vector/20230228/ourlarge/pngtree-elearning-concept-man-studying-with-laptopnotebook-man-home-person-vector-png-image_49892160.jpg"  />
 
-###
-
 <p align="left">Olá, me chamo George, tenho 39 anos e atualmente estou no terceiro período de Analise e Desenvolvimento de Sistemas na Newton Paiva, Belo Horizonte - MG.<br>Tenho muito interesse em tecnologias e simplesmente adoro passar horas estudando sobre o assunto, gosto de desafios e sou uma pessoa organizada .</p>
 
-###
+<br>
+
+<h2 align="center">Objetivo</h2>
+
+<p align="left">Contribuir em projetos de desenvolvimento de software, aplicando meus conhecimentos em front-end, back-end e mobile, enquanto evoluo tecnicamente e apoio o crescimento da equipe.</p>
 
 <h2 align="center">Estatísticas</h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeGoncalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeGoncalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgeGoncalves&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeGoncalves&theme=github-light&border_radius=8&locale=pt&type=png" alt="GitHub Streak" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgeGoncalves&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
 <h2 align="center">Tecnologias</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
@@ -61,12 +53,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-  
-###
 
 <h2 align="center">Rede sociais</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/george-gon%C3%A7alves-901971323/?trk=li_LOL_SPIN_global_careers_jobsgtm_conv_acq_july2022_spinv1" target="_blank">
@@ -80,10 +68,4 @@
   </a>
 </div>
 
-###
-
-###
-
 <img src="https://raw.githubusercontent.com/GeorgeGoncalves/GeorgeGoncalves/output/snake.svg" alt="Snake animation" />
-
-###
